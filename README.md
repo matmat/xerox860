@@ -18,3 +18,50 @@
 | **Dx** | Æ | æ | Ø | ø | ı | œ | ij | IJ | ₡ | Pts | ƒ | £ | ¥ | $ | ¡ | ¿ |
 | **Ex** | ß | ℓ | o̱ | a̱ | Å | å | ´ | CDL | ULN |
 | **Fx** | | | | | | | | | | | | USEP | GSEP | FSEP | RSEP | SOS |
+
+## Control Characters
+| Code | Description |
+|------|-------------|
+| AREF | Alternate reference |
+| BBD  | Begin Bold(?) |
+| BSO  | Begin Strike out(?) |
+| BUS  | Begin Underline Sequence(?) |
+| CDL  | ? |
+| CDU  | ? |
+| CMD  | Command |
+| CRN  | Carriage return |
+| DEL  | Delete |
+| DELL |  |
+| EBD  | End Bold(?) |
+| ESI  | ? |
+| ESO  | End Strike Out(?) |
+| ESPA | ? |
+| EUS  | End Underline Sequence(?) |
+| FMT  | Format |
+| FSEP | Field Separator |
+| GSEP | Group Separator(?) |
+| HLT  | Halt(?) |
+| INX  | Index |
+| LFEED | Line Feed |
+| NCOL | ? |
+| NUL  | Null |
+| PBS  | ? |
+| PCR  | Precedented Carriage Return |
+| PGE  | ? |
+| PGNO | Page Number(?) |
+| PSP  | ? |
+| PTB  | ? |
+| REF  | Reference |
+| RET  | ? |
+| RIX  | Reverse Index |
+| RNCOL | ? |
+| RPGE | ? |
+| RSEP | Record Separator(?) |
+| RVN  | ? |
+| SOS  | ? |
+| SP   | ? |
+| TAB  | Tabulation |
+| THYP | Temporary Hyphen |
+| UBS  | ? |
+| ULN  | ? |
+| USEP | User Separator(?) |
