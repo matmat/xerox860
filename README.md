@@ -13,8 +13,8 @@
 | **8x** | BSO | ESO | BBD | EBD | BUS | EUS | | | PGNO | CDU | RVN | HLT | | ESI | AREF | REF |
 | **9x** | FMT | CMD | NCOL | RNCOL | PGE | RPGE | CRN | PCR | RET | TAB | PTB | LFEED | INX | RIX | UBS | PBS |
 | **Ax** | PSP | THYP | ² | ³ | ° | µ | ¶ | § | ( | ) | ESPA | ± | , | ‑ | . | . |
-| **Bx** | ÷ | ® | · | ™ | © | ↓ | ≠ | ◆ | DELL | ` | ^ | ¼ | ⅓ | ½ | ⅔ | ¾ |
+| **Bx** | ÷ | ® | · | ™ | © | ↓ | ≠ | ▽ | ▶ | ` | ^ | ¼ | ⅓ | ½ | ⅔ | ¾ |
 | **Cx** | ┼ | ─ | │ | ╋ | ━ | ┃ | ▒ | | | | | | | | | |
-| **Dx** | | | | | | | | | | | | | | | | |
-| **Ex** | | | | | | | | | | | | | | | CDL | ULN |
+| **Dx** | Æ | æ | Ø | ø | ı | œ | ij | IJ | ₡ | Pts | ƒ | £ | ¥ | $ | ¡ | ¿ |
+| **Ex** | ß | ℓ | o̱ | a̱ | Å | å | ´ | CDL | ULN |
 | **Fx** | | | | | | | | | | | | USEP | GSEP | FSEP | RSEP | SOS |
